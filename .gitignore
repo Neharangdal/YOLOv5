@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+.venv/
+
+# YOLO / ML
+*.pt
+*.h5
+*.weights
+*.zip
+*.rar
+
+# Datasets / generated images (optional)
+detected_eyes/
+enhanced_eyes/
+processed_eyes/
+
+# Jupyter
+.ipynb_checkpoints/
